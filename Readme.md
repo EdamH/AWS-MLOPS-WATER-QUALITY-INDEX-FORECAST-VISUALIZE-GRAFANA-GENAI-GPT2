@@ -13,7 +13,7 @@
 - [☁️ AWS SetUp](#-aws-setup)
   - [🧱 Architecture Components](#-architecture-components)
   - [⚙️ SetUp Instructions](#-setup-instructions)
-- [📈 Resultat](#-resultat)
+- [📈 Results](#-resultat)
 - [🔧 Usage](#-usage)
 - [🔮 Future Considerations](#-future-considerations)
 - [🤝 Contributing](#-contributing)
